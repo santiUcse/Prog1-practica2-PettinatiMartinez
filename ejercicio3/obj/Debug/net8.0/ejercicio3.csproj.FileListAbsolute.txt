@@ -1,0 +1,14 @@
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\ejercicio3.AssemblyInfo.cs
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\bin\Debug\net8.0\ejercicio3.exe
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\bin\Debug\net8.0\ejercicio3.deps.json
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\bin\Debug\net8.0\ejercicio3.runtimeconfig.json
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\bin\Debug\net8.0\ejercicio3.dll
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\bin\Debug\net8.0\ejercicio3.pdb
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\ejercicio3.dll
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\refint\ejercicio3.dll
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\ejercicio3.pdb
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\ejercicio3.genruntimeconfig.cache
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio3\obj\Debug\net8.0\ref\ejercicio3.dll

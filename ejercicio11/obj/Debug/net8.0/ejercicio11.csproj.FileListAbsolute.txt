@@ -1,0 +1,14 @@
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\bin\Debug\net8.0\ejercicio11.exe
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\bin\Debug\net8.0\ejercicio11.deps.json
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\bin\Debug\net8.0\ejercicio11.runtimeconfig.json
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\bin\Debug\net8.0\ejercicio11.dll
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\bin\Debug\net8.0\ejercicio11.pdb
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\ejercicio11.AssemblyInfoInputs.cache
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\ejercicio11.AssemblyInfo.cs
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\ejercicio11.dll
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\refint\ejercicio11.dll
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\ejercicio11.pdb
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\ejercicio11.genruntimeconfig.cache
+C:\Users\UCSE\Pictures\Screenshots\porfavor no lo bore te lo reugo\coso\EjerciciosPractica2POO\ejercicio11\obj\Debug\net8.0\ref\ejercicio11.dll
